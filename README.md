@@ -4,3 +4,4 @@ I wrote the codes in this directory for a variety of purposes. Every file has co
  Every file has comments outlining the functionality of the code as well as any knowledge I've gained from using it.  
  ## Fascinating/Uncertain  
 I list subjects or codes that I think are especially fascinating or perplexing in this area.
+This open-source repository is available under the MIT License, allowing for modification and distribution.
